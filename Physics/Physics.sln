@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Physics", "Physics.pyproj", "{289D7E5E-90EF-432E-82C7-3551DCAB67B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289D7E5E-90EF-432E-82C7-3551DCAB67B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289D7E5E-90EF-432E-82C7-3551DCAB67B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855202A9-DFF6-4869-8B11-1E3B5CF16F03}
+	EndGlobalSection
+EndGlobal

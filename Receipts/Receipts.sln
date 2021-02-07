@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Receipts", "Receipts.pyproj", "{45E0A5BC-E391-4F8A-89BF-82818C13CA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E0A5BC-E391-4F8A-89BF-82818C13CA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E0A5BC-E391-4F8A-89BF-82818C13CA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0232F4-39C8-4AD3-BB46-10D58F4F7DF0}
+	EndGlobalSection
+EndGlobal
